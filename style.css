@@ -84,6 +84,5 @@ a {
 
 .card{
     display: flex;
-    flex: column;
     height: 100%;
 }
